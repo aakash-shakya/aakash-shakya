@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **official.aakas@gmail.com**
 
-- 📄 Know about my experiences [https://www.aakas.com.np/](https://www.aakas.com.np/)
+- 📄 Know about my experiences [https://aakas.com.np/](https://aakas.com.np/)
 
 - ⚡ Fun fact **I am a dancer, and I can lead a group.**
 
