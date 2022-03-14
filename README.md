@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<a href="https://app.daily.dev/__aakas__">
+    <img width="256"
+         align="right"
+         src="https://api.daily.dev/devcards/89e7bbd2c55a4958b0b36401415631d7.png?r=qcs" 
+         alt="Aakash Shakya's Dev Card"/>
+</a>
+
 - 🔭 I’m currently working on [BikeUnleash.com](https://www.bikeunleash.com/)
 
 - 🌱 I’m currently learning **Django Rest Framework, React, DSA, Data Science, and Competitive Programming**
@@ -52,8 +59,4 @@
     />
   </a>
   
- <a href="https://app.daily.dev/__aakas__">
-    <img width="256"
-         align="right"
-         src="https://api.daily.dev/devcards/89e7bbd2c55a4958b0b36401415631d7.png?r=qcs" 
-         alt="Aakash Shakya's Dev Card"/></a>
+ 
