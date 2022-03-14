@@ -43,3 +43,11 @@
 <p><a href="https://www.buymeacoffee.com/aakas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aakas" /></a></p><br><br>
 
 <a href="https://app.daily.dev/__aakas__"><img src="https://github.com/aakash-shakya/aakash-shakya/blob/master/devcard.svg" width="400" alt="Aakash Shakya's Dev Card"/></a>
+
+<a href="https://api.daily.dev/get?r=__aakas__" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/aakash-shakya/aakash-shakya/devcard/devcard.svg"
+    />
+  </a>
