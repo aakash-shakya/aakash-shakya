@@ -10,7 +10,7 @@
 <a href="https://app.daily.dev/__aakas__">
     <img width="256"
          align="right"
-         src="https://github.com/aakash-shakya/aakash-shakya/blob/master/devcard.svg" 
+         src="https://github.com/aakash-shakya/aakash-shakya/blob/main/devcard.svg" 
          alt="Aakash Shakya's Dev Card"/>
 </a>
 
