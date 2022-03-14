@@ -44,10 +44,12 @@
 
 <a href="https://app.daily.dev/__aakas__"><img src="https://github.com/aakash-shakya/aakash-shakya/blob/master/devcard.svg" width="400" alt="Aakash Shakya's Dev Card"/></a>
 
-<a href="https://api.daily.dev/get?r=__aakas__" target="_blank">
+<a href="https://api.daily.dev/__aakas__" target="_blank">
     <img
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/aakash-shakya/aakash-shakya/devcard/devcard.svg"
     />
   </a>
+  
+ <a href="https://app.daily.dev/__aakas__"><img src="https://api.daily.dev/devcards/89e7bbd2c55a4958b0b36401415631d7.png?r=qcs" width="400" alt="Aakash Shakya's Dev Card"/></a>
