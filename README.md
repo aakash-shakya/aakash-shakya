@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aakash-shakya?tab=repositories](https://github.com/aakash-shakya?tab=repositories)
 
-- 📝 I regularly write articles on [https://aakash-shakya.medium.com/](https://aakash-shakya.medium.com/)
+- 📝 I regularly write articles on [https://blog.aakas.com.np/](https://blog.aakas.com.np/)
 
 - 💬 Ask me about **Python, Django, DRF, C++**
 
