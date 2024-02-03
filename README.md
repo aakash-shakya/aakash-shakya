@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working at [Code Himalaya Pvt. Ltd.]
+- 🔭 I’m currently working at **Code Himalaya Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Django Rest Framework, React, DSA, Data Science, and Competitive Programming**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://blog.aakas.com.np/](https://blog.aakas.com.np/)
 
-- 💬 Ask me about **Python, Django, DRF, C++**
+- 💬 Ask me about **Python, Django, DRF, Pandas**
 
 - 📫 How to reach me **official.aakas@gmail.com**
 
@@ -39,9 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-shakya&show_icons=true&locale=en" alt="aakash-shakya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-shakya&" alt="aakash-shakya" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aakas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aakas" /></a></p><br><br>
 
 
 
